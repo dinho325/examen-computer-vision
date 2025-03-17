@@ -1,0 +1,10 @@
+facenet_pytorch
+fastapi
+pydantic
+torch
+torchvision
+uvicorn
+numpy
+PIL
+tensorflow
+flask
